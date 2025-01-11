@@ -8,6 +8,7 @@ DISCORD WEBHOOK SUPPORT TO SEE STATUS
 AUTO ADD TO STARTUP
 ```
 # SETUP
+```
 1 ~ Download the repository
 
 2 ~ Open Malware.py in a python interpreter like Pycharm or Visual Studio, or you can just open it in notepad, but there wont be a valid way to turn it into an EXE :) **Disclaimer!**: DO NOT OPEN THE .py FILE NORMALLY, IT WILL RUN THE MALWARE ON YOUR PC!!!!
@@ -17,5 +18,5 @@ AUTO ADD TO STARTUP
 4 ~ Save your editted file
 
 5 ~ (OPTIONAL!) Change the .py file to an EXE by running this in your python interpreter terminal ```pyinstaller --onefile your_script.py``` **Disclaimer!**: Make sure to change "your_script.py" to the name of your python script, or the script's path
-
+```
 **You have now setup the virus**
