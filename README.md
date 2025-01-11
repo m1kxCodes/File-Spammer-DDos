@@ -1,5 +1,5 @@
-# File-Spammer-DDos
-a program/virus that spam creates files to fill up a bunch of space and also ddoses while at it, and it also adds to startup
+# File-Spammer
+a program/virus that spam creates files to fill up a bunch of space, adds to startup, all while being completly undetected by any antivirus
 
 # SETUP
 ```
