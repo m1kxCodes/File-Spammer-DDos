@@ -2,7 +2,7 @@
 a program/virus that spam creates files to fill up a bunch of space, adds to startup, all while being completly undetected by any antivirus
 
 # SETUP
-** Requirements ** : Python interpreter, like pycharm or visual studio and Latest version of python
+**Requirements** : Python interpreter, like pycharm or visual studio and Latest version of python
 ```
 1 ~ Download the repository
 
